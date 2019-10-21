@@ -1,0 +1,23 @@
+{
+  "name": "week-of-fortune",
+  "version": "1.0.0",
+  "description": "week builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DashaDaria/week-of-fortune.git"
+  },
+  "author": "DashaDaria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DashaDaria/week-of-fortune/issues"
+  },
+  "homepage": "https://github.com/DashaDaria/week-of-fortune#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
